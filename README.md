@@ -1,8 +1,12 @@
-### Hi there 👋
+###  Hi, I'm Jairsantos! :D 👨‍💻
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jairsantos-jau&show_icons=true&theme=radical" width="100%" color="green">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-santos-06413bb7//)](https://www.linkedin.com/in/jair-santos-06413bb7/)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=jairsantos-jau&show_icons=true&theme=radical" width="100%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairsantos-jau&layout=compact)](https://github.com/jairsantos-jau/github-readme-stats)
 
