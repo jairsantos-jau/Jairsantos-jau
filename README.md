@@ -22,8 +22,8 @@
 
 
 ## Contato
-- Website: [jairsantos] (https://play.google.com/store/apps/details?id=com.jau.jairsantos&hl=pt_BR&gl=US)
-- E-mail: [jairsantos-jau@hotmail.com] (mailto:jairsantos-jau@hotmail.com)
+- Website: [jairsantos](https://play.google.com/store/apps/details?id=com.jau.jairsantos&hl=pt_BR&gl=US):
+- E-mail: [jairsantos-jau@hotmail.com](mailto:jairsantos-jau@hotmail.com):
 
 ## Contribuições
 Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se á vontade para abrir uuma issue ou enviar um pull request. Contribuições são sempre bem-vindas! 
