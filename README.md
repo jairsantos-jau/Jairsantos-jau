@@ -17,7 +17,7 @@
 
 
 
-**jairsantos-jau/Jairsantos-jau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## Contato
 - Website: [jairsantos](https://play.google.com/store/apps/details?id=com.jau.jairsantos&hl=pt_BR&gl=US)
