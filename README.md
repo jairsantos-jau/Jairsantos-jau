@@ -1,5 +1,5 @@
 ###  Hi, I'm Jairsantos! :D 👨‍💻
-# Bem-Vindo ao meu perfil do Github!
+## Bem-Vindo ao meu perfil do Github!
 # Formado em Sistemas Para Internet é Desenvolvedor Full Stack.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
@@ -24,8 +24,8 @@
 
 
 ## Contato
-- Website: [jairsantos](https://play.google.com/store/apps/details?id=com.jau.jairsantos&hl=pt_BR&gl=US):
-- E-mail: [jairsantos-jau@hotmail.com](mailto:jairsantos-jau@hotmail.com):
+* Website: [jairsantos](https://play.google.com/store/apps/details?id=com.jau.jairsantos&hl=pt_BR&gl=US):
+* E-mail: [jairsantos-jau@hotmail.com](mailto:jairsantos-jau@hotmail.com):
 
 ## Contribuições
 Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se á vontade para abrir uuma issue ou enviar um pull request. Contribuições são sempre bem-vindas! 
